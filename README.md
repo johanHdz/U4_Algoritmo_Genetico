@@ -5,3 +5,4 @@ Este programa utiliza el algoritmo genético que ofrece la librería Pygad para 
 - numpy
 - pygad
 - Pillow
+- tkinter
